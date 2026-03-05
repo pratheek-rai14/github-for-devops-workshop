@@ -3,3 +3,21 @@ git init
 3. git add   --> Untrack to stage 
 4. git commit -m   --> Stage to track 
 5. git restore  --> 
+6. git status
+7. git add git_commands.txt
+8. git add git_comands.txt
+9. git status
+10.git commit -m "added git comands"
+git status
+git rm --cached git_comands.txt
+git status
+git add git_comands.txt
+git status
+git commit -m "added git commands"
+git status
+git remote add origin https://github.com/pratheek-rai14/github-for-devops-workshop.git   
+git remote -v
+git remote set-url origin https://github.com/pratheek-rai14/github-for-devops-workshop.git
+git remote -v
+git push origin master
+history
