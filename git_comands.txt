@@ -1,0 +1,5 @@
+git init
+2. git status
+3. git add   --> Untrack to stage 
+4. git commint -m   --> Stage to track 
+5. git restore  --> 
