@@ -1,7 +1,11 @@
-def hello():
+"""
+This module demonstrates a simple hello function.
+"""
 
+
+def hello():
     """
-    this is testing
+    This function returns a greeting message.
     """
     return "Hello my friend"
 
