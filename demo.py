@@ -4,7 +4,7 @@ This module demonstrates a simple function.
 
 
 def my_function():
-    
+
     """
     This function returns a number.
     """
